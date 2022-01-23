@@ -1,3 +1,7 @@
+# 🚧→→ Folded into [runsascoded/jupyterlite-demo](https://github.com/runsascoded/jupyterlite-demo) ←←🚧
+
+----
+
 # Build+Deploy Jupyterlite
 Minimal [Jupyterlite](https://jupyterlite.readthedocs.io/en/latest/) (Jupyter in the browser, including the "server") deployment example, adapted from [jupyterlite/demo](https://github.com/jupyterlite/demo).
 
