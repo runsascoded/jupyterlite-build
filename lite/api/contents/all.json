@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-01-23T15:20:57.156585Z",
+      "format": null,
+      "last_modified": "2022-01-23T15:19:54.716986Z",
+      "mimetype": null,
+      "name": "plotly-test.ipynb",
+      "path": "plotly-test.ipynb",
+      "size": 3699292,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-01-23T15:20:57.154470Z",
+  "format": "json",
+  "last_modified": "2022-01-23T15:20:57.154470Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
